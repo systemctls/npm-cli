@@ -1,0 +1,8 @@
+{
+	"tpl": {
+		"gk-cli": {
+			"url": "https://github.com/Grainfills/gk-cli.git",
+			"branch": "master"
+		}
+	}
+}

@@ -26,7 +26,7 @@ gk init
  cd demo && npm install
 ```
 
-### add
+### add Template
  
 ```
  gk add
